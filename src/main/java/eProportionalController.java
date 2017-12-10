@@ -11,7 +11,7 @@ public class eProportionalController extends ProportionalSuperController {
     private static final int CORNER_RIGHT = 4;
     private double speedLeft;
     private double speedRight;
-    double[][] k = {{1}, {1}, {0.6}, {1}, {1}};
+    double[][] k = {{1}, {1}, {0.7}, {1}, {0.7}};
     double c = 200;
 
 
